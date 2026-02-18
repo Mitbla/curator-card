@@ -30,3 +30,19 @@
 - [ ] `CLAIMS.md` has 1+ verified claim per card + reflection
 - [ ] Images (if any) have `alt` text
 - [ ] 5+ meaningful git commits
+
+## Student Reflection
+
+### Workflow Reflection
+I followed the “Explore → Pin → Promote” workflow. I explored each design movement (Bauhaus, Swiss Style, New Wave) using AI and museum sources to generate concept maps, vocabulary, and timelines. I pinned only the most accurate information in CURATOR_NOTES.md, then promoted it to AGENTS.md and drafted the 3 curator cards in index.html.
+
+### Verification Reflection
+I verified key claims for each card:
+- **Bauhaus:** founding date (1919) and Vorkurs curriculum verified via MoMA and Bauhaus Dessau Foundation.
+- **Swiss Style:** key figures and grid system traits verified via Museum für Gestaltung Zürich.
+- **New Wave:** Wolfgang Weingart’s role and experimental typography verified via Museum für Gestaltung Zürich exhibition materials.
+
+I corrected some initial assumptions, such as believing New Wave typography was random, when it is purposeful experimentation built on Swiss principles.
+
+### Learning
+Using AI in this structured way allowed me to focus on **curation and verification** instead of formatting or drafting. I now feel confident producing museum-label-quality curator cards that are accurate, concise, and professionally structured.
