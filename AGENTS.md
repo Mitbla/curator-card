@@ -53,20 +53,21 @@ Use these terms. If a term is not on this list, define it before using it.
 | Term | Definition |
 |------|-----------|
 | Vorkurs | Bauhaus foundation course teaching materials, form, and color |
-| *[Add your terms here]* | *[One-sentence definition]* |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| Geometric abstraction | Using simple geometric forms for visual composition |
+| Form follows function | Design principle where form is dictated by purpose |
+| Modular grid | Layout system using repeated modules to organize content |
+| Sans-serif typography | Typeface without small projecting features at the end of strokes |
+| Grid system | Structured layout framework used in Swiss Style |
+| Asymmetrical layout | Composition where elements are balanced without symmetry |
+| Typographic hierarchy | Organization of text using size, weight, and spacing to guide readers |
+| Akzidenz-Grotesk | Sans-serif typeface commonly used in Swiss Style |
+| Objective photography | Photography used to communicate facts clearly and neutrally |
+| Grid disruption | Deliberate breaking of grid rules, used in New Wave |
+| Typographic experimentation | Playing with type layout to create expressive effects |
+| Layering | Overlaying visual elements in composition |
+| Diagonal composition | Using angled elements instead of strictly horizontal/vertical grids |
+| Postmodern typography | Design approach emphasizing expressive and experimental type |
+
 
 *Aim for 15–25 terms total. Build this list during your Exploration phase.*
 
